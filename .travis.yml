@@ -15,8 +15,5 @@ script:
   - ng build
   
 deploy:
-  provider: azure_web_apps
-  username: "manishb123"
-  password: "p@ssw04d"
-  site: "angular2heroestravisdemo"
+  provider: azure_web_apps 
   verbose: true
