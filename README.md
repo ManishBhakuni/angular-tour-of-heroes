@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ManishBhakuni/angular-tour-of-heroes.svg?branch=master)](https://travis-ci.org/ManishBhakuni/angular-tour-of-heroes)
+[![BCH compliance](https://bettercodehub.com/edge/badge/ManishBhakuni/angular-tour-of-heroes?branch=master)](https://bettercodehub.com/)
 
 # Getting Started
 
