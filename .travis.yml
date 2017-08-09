@@ -16,6 +16,6 @@ script:
   
 deploy:
   provider: azure_web_apps
-  site: "angular2heroestravisdemo"
+  site: angular2heroestravisdemo
   verbose: true 
   
