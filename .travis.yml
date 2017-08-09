@@ -16,10 +16,8 @@ script:
   
 deploy:
   provider: azure_web_apps
-  username: manishb123
-  password: p@ssw04d
-  site: angular2heroestravisdemo  
-  verbose: true
-  on:
-    branch: master
+  username: "manishb123"
+  password: "p@ssw04d"
+  site: "angular2heroestravisdemo"
+  verbose: true 
   
