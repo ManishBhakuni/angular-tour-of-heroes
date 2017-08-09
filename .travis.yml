@@ -18,4 +18,5 @@ deploy:
   provider: azure_web_apps
   username: angular2heroestravisdemo\manishb
   password: p@ssw04d
-  site: angular2heroestravisdemo  
+  site: angular2heroestravisdemo
+  verbose: true  
