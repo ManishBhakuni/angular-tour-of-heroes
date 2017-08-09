@@ -20,4 +20,6 @@ deploy:
   password: p@ssw04d
   site: angular2heroestravisdemo  
   verbose: true
+  on:
+    branch: master
   
